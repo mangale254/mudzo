@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <div class="container">
+</head>
+<h1>Digitech Forms</h1>
+<form action="/file">
+    <p>
+        <label for="email addrese" style="color: yellowgreen;">Enter a email <address></address></label>
+        <input id="email address"type="text"placeholder="email address"name="username">
+         </p>
+         <p>
+        <label for="password" style="color: yellowgreen;">Enter a password</label>
+        <input id="password" type="text" placeholders="password"name="password">
+        </p>
+        <p>
+            <label for="name" style="color: yellowgreen;">Enter a name</label>
+            <input id="name"type="text"placeholder="name"name="name">
+            </p>
+            <p>
+                <label for="midlle name" style="color: yellowgreen;">Enter middle name</label>
+                <input id="middle name"type="text"placeholders="middle name"middle name="middle name">
+                </p>
+                <p>
+                <label for="surname" style="color: yellowgreen;">Enter surname</label>
+                <input id="surname"type="text"palaceholders="surname"surname="username">
+
+                <h2 style="color:yellowgreen;">The Application Process</h2>
+
+                       <h3 style="color: blue;">Year 10 and 11 Applications</h3>
+                <p style="color: rgb(24, 28, 28);">If you are applying  for a place at digitech in yeah 10 or 11,first the application form for digitech available below.</p>
+
+                <h3 style="color: blue;">Enrolment</h3> 
+                <p style="color:rgb(21, 23, 23)">once you have complete your application form,you will hear from digitech council to confirm your place.once your place is confirmed you will be contacted by us to give us more information about you and the course you want to study with us.</p>
+
+                <h4 style="color: blue;">Induction Day</h4>
+                <p style="color: rgb(17, 18, 18);">Our induction day is an opportunity for you to start to feel part of the Digitech community. You will have some amazing lessons experiences.</p>
+
+                <h5 style="color: blue;">Transition Support</h5>
+                <p style="color: rgb(26, 29, 29);">Staff from digitech visit school
